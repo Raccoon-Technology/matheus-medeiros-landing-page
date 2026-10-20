@@ -147,9 +147,9 @@ export const GALERIA_FILTROS = ["Todas", "Graduações", "Aulas", "Campeonatos",
 export const ENDERECO = {
   nome: "FGT – Fight Gear Team",
   logradouro: "Av. Pedro Teixeira, 789 — Dom Pedro",
-  cidade: "Manaus / AM · 69040-000",
+  cidade: "Manaus / AM · 69050-001",
   mapsUrl:
-    "https://www.google.com/maps/place/FGT+-+Fight+Gear+Team/data=!4m2!3m1!1s0x0:0xe184a5d08478877?sa=X&ved=1t:2428&ictx=111",
+    "https://www.google.com/maps/place/Krav+Maga+Manaus-Am/data=!4m2!3m1!1s0x926c0f8a293c085f:0x2932d1b8759fdfcf",
   mapsEmbed:
-    "https://www.google.com/maps?q=Av.+Pedro+Teixeira,+789+-+Dom+Pedro,+Manaus+-+AM,+69040-000&output=embed",
+    "https://www.google.com/maps?q=Av.+Pedro+Teixeira,+789+-+Dom+Pedro,+Manaus+-+AM,+69050-001&output=embed",
 };
