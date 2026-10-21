@@ -145,7 +145,7 @@ export const GALERIA: GaleriaItem[] = [
 export const GALERIA_FILTROS = ["Todas", "Graduações", "Aulas", "Campeonatos", "Vídeos"] as const;
 
 export const ENDERECO = {
-  nome: "FGT – Fight Gear Team",
+  nome: "Matheus Medeiros",
   logradouro: "Av. Pedro Teixeira, 789 — Dom Pedro",
   cidade: "Manaus / AM · 69050-001",
   mapsUrl:

@@ -126,10 +126,10 @@ export default function Horarios() {
             <div className="flex items-center gap-4">
               <div className="relative w-[72px] h-[72px] shrink-0">
                 <Image
-                  src="/assets/logo-fgt.png"
-                  alt="FGT - Fight Gear Team"
+                  src="/assets/matheus-perfil.jpg"
+                  alt="Matheus Medeiros"
                   fill
-                  className="object-contain"
+                  className="object-cover rounded-full"
                 />
               </div>
               <span className="font-display font-bold text-[32px] uppercase leading-none text-white">
@@ -166,7 +166,7 @@ export default function Horarios() {
           >
             <iframe
               src={ENDERECO.mapsEmbed}
-              title="Mapa - FGT Fight Gear Team"
+              title="Mapa - Onde treinar com Matheus Medeiros"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               className="absolute inset-0 w-full h-full border-0 grayscale-[35%]"
